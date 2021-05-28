@@ -7,9 +7,10 @@ function Form() {
     const onSubmit = (async ({ firstName, lastName, email, password }) => {
         console.log({
             firstName,
-             lastName,
-             email,
-             password});
+            lastName,
+            email,
+            password
+        });
         alert('Wysłano formularz!');
         reset();
     });
