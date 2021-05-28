@@ -11,7 +11,7 @@ function Form() {
             email,
             password
         });
-        alert('Wysłano formularz!');
+        alert('The form has been sent!');
         reset();
     });
 
