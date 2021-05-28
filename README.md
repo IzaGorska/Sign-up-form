@@ -5,6 +5,8 @@ When input is invalid, you get an error below and icon inside appear.
 
 Site styled with using css grid.
 
+### Live preview -> https://angry-bohr-5d64ec.netlify.app/
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
