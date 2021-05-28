@@ -41,7 +41,6 @@ function Form() {
         <div className="form">
             <form onSubmit={handleSubmit(onSubmit)}>
                 <input
-                    className='error'
                     type="text"
                     placeholder='First Name'
                     name="firstName"
