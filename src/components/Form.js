@@ -28,6 +28,7 @@ function Form() {
         email: {
             required: "Email cannot be empty",
             pattern: {
+                //eslint-disable-next-line
                 value: /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/,
                 message: "Looks like this is not an email"
             }
